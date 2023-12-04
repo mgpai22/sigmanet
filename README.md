@@ -15,3 +15,8 @@ Changes
 ```bash
 sbt clean assembly
 ```
+
+## Nodes
+
+seed eu: http://65.108.243.155:9052/panel
+seed us: http://5.161.176.125:9052/panel
